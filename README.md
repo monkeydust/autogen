@@ -1,7 +1,8 @@
 # autogen
 
 ## This test uses ARO concept from https://www.youtube.com/watch?v=byPbxEH5V8E&t=74s
-### Speed improvement from first cut of the code from Architect to the final one after Reviewer and Optimizer was ~ 60%
+### Speed improvement from first cut of the code from Architect to the final one after Reviewer and Optimizer was ~ 60%. 
+### Below is the code from Autogen, the first statement was the initial prompt I gave it.
 
 USER
 ...
